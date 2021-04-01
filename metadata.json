@@ -1,0 +1,6 @@
+{
+    "name": "charging-mode",
+    "uuid": "charging-mode@karim.lotfy.com",
+    "shell-version": ["3.36"], 
+    "description": "chargning mode indicator for laptops. allows to switch the charging mode from conservative or healthy to normal mode. indicates also which mode you are using now. works on Lenovo ideapads, Legions, and other Lenovo laptops."
+}
