@@ -1,9 +1,23 @@
-# How To Create A GNOME Extension Part 11
+# Charing-Mode gnome-shell extention for Laptops
 
-Example GNOME Extension for "How To Create A GNOME Extension (Part 11)"
-YouTube Video
+An extention to monotor and change charging modes in Gnome.
 
-YouTube Channel:
-https://www.youtube.com/channel/UCIPetZTndV_mB3GT6tNQ2Zw
+## Technologies
+Project is created with:
+* Javascript
+* Gnome shell extention API
 
-This example has been released under The MIT License.
+## Setup
+
+### simple way
+To run this project, install it from the internet using this url
+
+### manual way
+go to the gnome-shell extentions folder that is located at 
+```
+$ cd ~/.local/share/gnome-shell/extensions
+$ mkdir charging-mode@karim.lotfy.com
+```
+add all the files to this directory
+
+## use example
